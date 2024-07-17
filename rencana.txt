@@ -47,7 +47,7 @@ angka_kedua = 4444
 
 combo = angka_pertama + angka_kedua
 
-cat{ hasil dari `angka_pertama` ditambah `angka_kedua` akan menjadi `combo`
+cat{ hasil dari `angka_pertama` ditambah `angka_kedua` akan menjadi `combo` }
 |
 -
 • inputan pengguna
