@@ -1,0 +1,65 @@
+Bahasa Pemrograman Mengganti Kode
+
+>>
+
+
+
+
+1] Bikin Script Untuk Translate/Convert Ke Bahasa Pemrograman Populer.
+nama tools converter nya;;
+• py to aas27 dan aas27 to py => yas.sh
+• pl to aas27 dan aas27 to pl => las.sh
+• lua to aas27 dan aas27 to lua => uas.sh
+• asm to aas27 dan aas27 to asm = mas.sh
+
+>
+2] Nama Bahasa Pemrograman Nya "BlackFishLang dan berekstensi aas27"
+>
+3] Penulisan Program Nya
+-
+• Hello World
+-
+|
+cat{ Hello World!!! }
+-
+• Komentar
+-
+|
+cat{ Hello World!!! }   /\ini sebuah komentar
+|
+-
+• Variabel
+-
+|
+a \\// saya
+b \\// sedang
+c \\// belajar
+cat{ a, b, c }
+|
+-
+• Kalkulator
+-
+|
+visi tger   /\masukin modul integer
+
+angka_pertama = 1337
+angka_kedua = 4444
+
+combo = angka_pertama + angka_kedua
+
+cat{ hasil dari `angka_pertama` ditambah `angka_kedua` akan menjadi `combo`
+|
+-
+• inputan pengguna
+-
+|
+nama \\// put{ Masukin Namamu: }
+cat{ Selamat Bekerja ++ nama }
+
+|
+-
+• baca file
+-
+|
+c = buka { D:\\folderku\file.txt , 'b'}
+cat{b.baca()}
